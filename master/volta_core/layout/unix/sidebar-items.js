@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["default_home_dir",""],["default_install_dir",""],["env_paths",""]]});

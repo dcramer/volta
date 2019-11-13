@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["is_dependency",""],["is_node_modules",""],["is_node_root",""],["is_project_root",""]],"struct":[["LazyProject","A lazily loaded Project"],["Project","A Node project tree in the filesystem."]]});
